@@ -1,12 +1,12 @@
 {
-  "name": "albinotonnina",
+  "name": "Rohit Sinha",
   "version": "4.0.0",
   "license": "CC-BY-NC-ND-4.0",
-  "homepage": "https://github.com/albinotonnina/albinotonnina.com",
+  "homepage": "https://github.com/118370rht118370/118370rht118370.github.io",
   "author": {
-    "name": "Albino Tonnina",
-    "email": "albinotonnina@gmail.com",
-    "url": "http://www.albinotonnina.com"
+    "name": "Rohit Sinha",
+    "email": "info@rohitsinha.in",
+    "url": "http://www.rohitsinha.in"
   },
   "scripts": {
     "dev": "webpack-dev-server --mode development",
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:albinotonnina/albinotonnina.com.git"
+    "url": "git@github.com:118370rht118370/118370rht118370.github.io.git"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
