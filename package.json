@@ -2,7 +2,7 @@
   "name": "Rohit Sinha",
   "version": "4.0.0",
   "license": "CC-BY-NC-ND-4.0",
-  "homepage": "https://github.com/118370rht118370/118370rht118370.github.io",
+  "homepage": "https://rhtsinha.github.io/",
   "author": {
     "name": "Rohit Sinha",
     "email": "info@rohitsinha.in",
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:118370rht118370/118370rht118370.github.io.git"
+    "url": "git@github.com:https://rhtsinha.github.io.git"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
