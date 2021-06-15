@@ -13,6 +13,7 @@
     "build": "webpack --mode production",
     "analyze": "webpack --mode production --analyze",
     "test": "jest"
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "d3-interpolate": "^1.4.0",
