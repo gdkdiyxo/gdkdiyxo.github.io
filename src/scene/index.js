@@ -1,7 +1,7 @@
 import React from "react";
 import Svg from "./scene.svg";
 import sceneTransitions1 from "./transitions";
-import "../images/albinotonnina.com.mp4";
+import "../images/rohitsinha.in.mp4";
 import { getTransitionElements } from "./transition-utilities";
 import onTick from "./tickFunction";
 
@@ -46,12 +46,12 @@ export default function scene(props) {
 
   React.useEffect(() => {
     document.querySelector("#contactsbutton").addEventListener("click", () => {
-      window.open("https://www.linkedin.com/in/albinotonnina/");
+      window.open("https://www.linkedin.com/in/rohitjsr");
     });
   });
   React.useEffect(() => {
     document.querySelector("#githubbutton").addEventListener("click", () => {
-      window.open("https://github.com/albinotonnina/albinotonnina.com/");
+      window.open("https://github.com/");
     });
   });
 
